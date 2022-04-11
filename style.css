@@ -1,0 +1,51 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+/* Fonts I've Used
+
+font-family: 'BhuTuka Expanded One', cursive;
+
+
+*/
+body { background-color: darkslategrey !important  }
+.fa-twitter {
+
+}
+
+#box1 {
+    background-color: green;
+    
+}
+
+#box2 {
+    background-color: red;
+    
+
+}
+
+#box3 {
+    background-color: yellow;
+
+}
+
+#box4 {
+    background-color: royalblue;
+font-family: 'BhuTuka Expanded One', cursive;
+}
+#Test-Button{
+    font-family: Noto Sans KR, sans-serif;
+        font-size:25px;
+        color:red;
+    background-color:black;
+}
+
+
+#bot{
+    
+    font-size:250px
+}
+
+#qr{
+    font-size:250px
+        
+}
